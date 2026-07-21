@@ -1,0 +1,8 @@
+{
+  "stage1": 228.8707196000032,
+  "stage2_transformer": 101.72381409996888,
+  "stage2_mlp": 40.191449099977035,
+  "stage3_transformer": 26.192762600025162,
+  "stage3_mlp": 25.666109499987215,
+  "ground_truth": 0
+}

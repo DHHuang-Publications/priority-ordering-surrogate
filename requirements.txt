@@ -1,0 +1,11 @@
+# Python dependencies for the surrogate-assisted priority-ordering framework.
+# Tested with Python 3.10-3.13. Version floors are conservative; the exact
+# versions used to produce the reported results are listed in the comments.
+
+numpy>=1.24          # tested: 2.2.6
+scipy>=1.10          # tested: 1.16.3  (Latin Hypercube sampling, statistical tests)
+torch>=2.0           # tested: 2.11.0  (Transformer and MLP surrogates)
+xgboost>=1.7         # tested: 3.2.0   (tree-based surrogate baselines)
+scikit-learn>=1.2    # tested: 1.7.2   (Random Forest baseline, metrics)
+matplotlib>=3.6      # tested: 3.10.6  (diagnostic, convergence, and attention plots)
+networkx>=2.8        # tested: 2.8.8   (topology handling and quickest-path enumeration)

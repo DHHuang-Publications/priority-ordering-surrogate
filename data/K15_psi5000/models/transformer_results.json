@@ -1,0 +1,15 @@
+{
+  "model": "transformer",
+  "model_display": "Transformer+MLP",
+  "K": 15,
+  "n_params": 550657,
+  "train_size": 1875000,
+  "val_size": 312500,
+  "test_size": 312500,
+  "train_time_sec": 18499.713775900018,
+  "epochs_trained": 291,
+  "test_MAE": 0.004256947431713343,
+  "test_MSE": 2.861546636268031e-05,
+  "test_R2": 0.9978523850440979,
+  "test_Spearman": 0.9990170848272379
+}

@@ -1,0 +1,14 @@
+{
+  "model": "transformer",
+  "K": 3,
+  "n_params": 18433,
+  "train_size": 226,
+  "val_size": 37,
+  "test_size": 37,
+  "train_time_sec": 2.7791958859997976,
+  "epochs_trained": 83,
+  "test_MAE": 0.0007646397571079433,
+  "test_MSE": 8.696405302544008e-07,
+  "test_R2": -0.9030337333679199,
+  "test_Spearman": -0.04085193248080018
+}

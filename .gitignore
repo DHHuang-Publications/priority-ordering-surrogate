@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+train.npz
+val.npz
+test.npz
+venv/
+.ipynb_checkpoints/

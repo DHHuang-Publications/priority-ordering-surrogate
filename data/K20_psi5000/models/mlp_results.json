@@ -1,0 +1,15 @@
+{
+  "model": "mlp",
+  "model_display": "MLP",
+  "K": 20,
+  "n_params": 110593,
+  "train_size": 3000000,
+  "val_size": 500000,
+  "test_size": 500000,
+  "train_time_sec": 7868.811393299955,
+  "epochs_trained": 236,
+  "test_MAE": 0.035191770642995834,
+  "test_MSE": 0.0019900561310350895,
+  "test_R2": 0.8289080858230591,
+  "test_Spearman": 0.9101634392998263
+}
