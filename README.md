@@ -76,9 +76,8 @@ recreate them, run the data-generation step of the corresponding driver. The sma
 `metadata.npz` files (network parameters and demand ranges), the **trained
 surrogate checkpoints** (`*.pt`), and the **result files** (`*.json`) *are*
 included, so the reported numbers and figures can be reproduced directly without
-retraining. If exact datasets are
-required, they are additionally archived at the DOI listed in the paper's Data and
-Code Availability statement.
+retraining. Because the random seeds are fixed, re-running the generation step
+reproduces those datasets exactly.
 
 ---
 
