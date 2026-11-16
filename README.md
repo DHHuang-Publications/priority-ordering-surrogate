@@ -128,8 +128,23 @@ enumeration, and demand calibration) is documented in
 
 ## Citation
 
-Please cite the associated paper (see the Data and Code Availability statement in
-the manuscript for the full reference and archival DOI).
+If you use this code, please cite:
+
+> Ding-Hsiang Huang (2026). Surrogate-assisted priority ordering optimization
+> for joint reliability in multi-state flow networks. *Engineering Applications
+> of Artificial Intelligence*, 116689. https://doi.org/10.1016/j.engappai.2026.116689
+
+```bibtex
+@article{huang2026priority,
+  author  = {Huang, Ding-Hsiang},
+  title   = {Surrogate-assisted priority ordering optimization for joint
+             reliability in multi-state flow networks},
+  journal = {Engineering Applications of Artificial Intelligence},
+  pages   = {116689},
+  year    = {2026},
+  doi     = {10.1016/j.engappai.2026.116689}
+}
+```
 
 ## License
 
