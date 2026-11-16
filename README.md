@@ -1,5 +1,7 @@
 # Surrogate-Assisted Priority Ordering Optimization for Joint Reliability in Multi-State Flow Networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24270056.svg)](https://doi.org/10.5281/zenodo.24270056)
+
 This repository contains the code, network instances, trained surrogate models,
 and benchmark protocol needed to reproduce the results reported in the paper.
 
