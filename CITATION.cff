@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "priority-ordering-surrogate"
+authors:
+  - family-names: Huang
+    given-names: Ding-Hsiang
+    affiliation: "College of Artificial Intelligence, National Yang Ming Chiao Tung University"
+    orcid: "https://orcid.org/0000-0002-8278-0287"
+license: MIT
+repository-code: "https://github.com/DHHuang-Publications/priority-ordering-surrogate"
+version: 1.0.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Huang
+      given-names: Ding-Hsiang
+      orcid: "https://orcid.org/0000-0002-8278-0287"
+  title: "Surrogate-assisted priority ordering optimization for joint reliability in multi-state flow networks"
+  journal: "Engineering Applications of Artificial Intelligence"
+  year: 2026
+  doi: "10.1016/j.engappai.2026.116689"
